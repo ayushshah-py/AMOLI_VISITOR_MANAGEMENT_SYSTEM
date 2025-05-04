@@ -26,32 +26,28 @@ A Django-based web application to streamline and secure the process of managing 
 ## 📸 Screenshots
 
 ### LOGIN VIEW
-![LOGIN](screenshots/dashboard.png)
+![LOGIN](https://github.com/ayushshah-py/AMOLI_VISITOR_MANAGEMENT_SYSTEM/blob/main/LOGIN%20VIEW.png?raw=true)
 
 ### DASHBOARD VIEW
-![DASHBOARD](screenshots/checkin_form.png)
+![DASHBOARD](https://github.com/ayushshah-py/AMOLI_VISITOR_MANAGEMENT_SYSTEM/blob/main/DASHBOARDS%20VIEW.png?raw=true)
 
 ### DEPARTMENTS VIEW
-![DEPARTMENTS](screenshots/report_page.png)
+![DEPARTMENTS](https://github.com/ayushshah-py/AMOLI_VISITOR_MANAGEMENT_SYSTEM/blob/main/DEPARTMENTS%20VIEW.png?raw=true)
 
 ### USERS VIEW
-![USERS](screenshots/report_page.png)
+![USERS](https://github.com/ayushshah-py/AMOLI_VISITOR_MANAGEMENT_SYSTEM/blob/main/LIST%20OF%20USERS.png?raw=true)
 
 ### VISITORS VIEW
-![VISITORS](screenshots/report_page.png)
+![VISITORS](https://github.com/ayushshah-py/AMOLI_VISITOR_MANAGEMENT_SYSTEM/blob/main/LISTV%20OF%20VISITORS%20.png?raw=true)
 
 ### DAY REPORTS VIEW
-![DAY REPORTS](screenshots/report_page.png)
+![DAY REPORTS](https://github.com/ayushshah-py/AMOLI_VISITOR_MANAGEMENT_SYSTEM/blob/main/DAILY%20REPORTS%20VIEW.png?raw=true)
 
 ### DAY REPORTS PRINT VIEW
-![DAY REPORTS PRINT VIEW](screenshots/report_page.png)
+![DAY REPORTS PRINT VIEW](https://github.com/ayushshah-py/AMOLI_VISITOR_MANAGEMENT_SYSTEM/blob/main/DAILY%20VISITORS%20LOGS%20REPORT%20PRINT%20VIEW.png?raw=true)
 
-### LIST OF VISITORS VIEW
-![LIST OF VISITORS VIEW](screenshots/report_page.png)
-
-### DAILY VISITORS LOGS REPORTS  VIEW
-![DAILY VISITORS LOGS REPORTS  VIEW](screenshots/report_page.png)
-
+### LIST OF VISITORS PRINT VIEW
+![LIST OF VISITORS PRINT VIEW](https://github.com/ayushshah-py/AMOLI_VISITOR_MANAGEMENT_SYSTEM/blob/main/LIST%20OF%20VISITORS%20PRINT%20VIEW.png?raw=true)
 
 ## 📂 Project Structure
 
