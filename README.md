@@ -81,7 +81,7 @@ visitor-management-system/
 
 ```bash
 git clone https://github.com/ayushshah-py/AMOLI_VISITOR_MANAGEMENT_SYSTEM.git
-cd visitor-management-system
+cd AMOLI_VISITOR_MANAGEMENT_SYSTEM
 ```
 
 ### 2. Create a Virtual Environment
@@ -144,4 +144,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-* **AYUSH SHAH** – [GitHub](https://github.com/ayushshah-py)
+* **AYUSH SHAH** – [GITHUB](https://github.com/ayushshah-py)
