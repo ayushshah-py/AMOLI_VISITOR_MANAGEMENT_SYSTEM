@@ -43,6 +43,15 @@ A Django-based web application to streamline and secure the process of managing 
 ### DAY REPORTS VIEW
 ![DAY REPORTS](screenshots/report_page.png)
 
+### DAY REPORTS PRINT VIEW
+![DAY REPORTS PRINT VIEW](screenshots/report_page.png)
+
+### LIST OF VISITORS VIEW
+![LIST OF VISITORS VIEW](screenshots/report_page.png)
+
+### DAILY VISITORS LOGS REPORTS  VIEW
+![DAILY VISITORS LOGS REPORTS  VIEW](screenshots/report_page.png)
+
 
 ## 📂 Project Structure
 
