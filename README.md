@@ -80,7 +80,7 @@ visitor-management-system/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/visitor-management-system.git
+git clone https://github.com/ayushshah-py/AMOLI_VISITOR_MANAGEMENT_SYSTEM.git
 cd visitor-management-system
 ```
 
@@ -144,4 +144,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-* **AYUSH SHAH** – [GitHub](https://github.com/yourusername)
+* **AYUSH SHAH** – [GitHub](https://github.com/ayushshah-py)
