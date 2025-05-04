@@ -4,6 +4,8 @@
 
 A Django-based web application to streamline and secure the process of managing visitor check-ins and check-outs for offices, institutions, or any organization. This system helps keep track of visitor details, purpose, time logs, and hosts they meet — providing both convenience and security.
 
+- 🚀 **Live Demo:** [LIVE DEMO ](https://www.linkedin.com/posts/ayush-shah-937937265_python-django-webdevelopment-activity-7324707645112651777-h4DS?utm_source=share&utm_medium=member_android&rcm=ACoAAEEZo3sBIv46zKedvNHeqBoPLgtlPkCP0vw)
+
 ## 🚀 Features
 
 * 🔐 **User Authentication** – Admin and Receptionist login with role-based access.
